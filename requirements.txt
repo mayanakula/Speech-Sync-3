@@ -6,3 +6,4 @@ gtts
 textblob
 noisereduce
 speechrecognition
+pyaudio==0.2.11
